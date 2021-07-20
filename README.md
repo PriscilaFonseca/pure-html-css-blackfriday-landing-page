@@ -10,3 +10,6 @@ Construir um site oficial / landing page
 - dominio Netlify para hospedagem
 
 ![](header.jpg)
+
+## Authors
+* **Priscila Fonseca** - *Initial work* - [Me](https://www.linkedin.com/in/pri-fonseca/)
